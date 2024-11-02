@@ -1,10 +1,5 @@
 👋 Merhaba, ben Yusuf, 
-Yazılım Test Uzmanı olarak test otomasyonu ve kalite güvencesi alanında uzmanlaşan bir profesyonelim.
-Java, Selenium, Cucumber, TestNG ve GitHub gibi araçlara hakimim ve Amerika merkezli Mersys sirketinde deneyimim var.
 
-🚀 Akakce, ParaBank, Magento, OpenMRS, E-Junkie ve TechnoStudy gibi projelerde Agile metodolojisine ve Scrum prensiplerine uygun olarak çalıştım ve projelerime bu bağlamda katkı sağladım. GitHub hesabımda projelerimi düzenli olarak paylaşıyorum ve yeni teknolojilere açık biriyim.
-
-💡 Test otomasyonu, SDLC/STLC ve CI/CD konularında bilgi sahibiyim. Ekip çalışmasını seviyor ve her zaman öğrenmeye devam ediyorum.
 
 ### 🚀 Yetkinliklerim
 
@@ -41,6 +36,14 @@ Java, Selenium, Cucumber, TestNG ve GitHub gibi araçlara hakimim ve Amerika mer
   <img src="https://img.shields.io/badge/Performance%20Testing-F8C471?style=for-the-badge&logo=loadtest&logoColor=black" alt="Performance Testing" />
   <img src="https://img.shields.io/badge/Test%20Automation-D4AC0D?style=for-the-badge&logo=robotframework&logoColor=white" alt="Test Automation" />
   
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/ios-filled/50/000000/bug.png" alt="Bug" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/checkmark.png" alt="Check" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/automation.png" alt="Automation" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/testing.png" alt="Testing" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/report.png" alt="Report" width="50" height="50"/>
 </p>
 
 
