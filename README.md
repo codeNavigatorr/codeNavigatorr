@@ -39,13 +39,30 @@
 </p>
 
 <p align="left">
-  <img src="https://img.icons8.com/ios-filled/50/000000/bug.png" alt="Bug" width="50" height="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/checkmark.png" alt="Check" width="50" height="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/automation.png" alt="Automation" width="50" height="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/testing.png" alt="Testing" width="50" height="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/report.png" alt="Report" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/testing.png" alt="Testing" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/quality.png" alt="Quality" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/bug.png" alt="Bug" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/automation.png" alt="Automation" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/analytics.png" alt="Analytics" width="50" height="50"/>
 </p>
 
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/test-automation.png" alt="Test Automation" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/debug.png" alt="Debug" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/code-review.png" alt="Code Review" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/success.png" alt="Success" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/pipeline.png" alt="Pipeline" width="50" height="50"/>
+</p>
+
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/user-experience.png" alt="User Experience" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/manual-testing.png" alt="Manual Testing" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/api.png" alt="API" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/report.png" alt="Report" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/devops.png" alt="DevOps" width="50" height="50"/>
+</p>
 
 
 
