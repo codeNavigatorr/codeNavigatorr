@@ -39,6 +39,22 @@
 
 
 
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/100/000000/trophy.png" alt="Trophy" width="100"/>
+  <h2>🎉 Tebrikler! Oyununuz Başarıyla Tamamlandı! 🎉</h2>
+  <p>Harika bir iş çıkardınız!</p>
+</p>
+
+
 <!---
 codeNavigatorr/codeNavigatorr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
