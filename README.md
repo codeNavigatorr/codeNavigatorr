@@ -1,6 +1,6 @@
 👋 Merhaba, ben Yusuf, 
 Yazılım Test Uzmanı olarak test otomasyonu ve kalite güvencesi alanında uzmanlaşan bir profesyonelim.
-Java, Selenium, Cucumber, TestNG ve GitHub gibi araçlara hakimim ve Mersys’te staj deneyimim var.
+Java, Selenium, Cucumber, TestNG ve GitHub gibi araçlara hakimim ve Amerika merkezli Mersys sirketinde deneyimim var.
 
 🚀 Akakce, ParaBank, Magento, OpenMRS, E-Junkie ve TechnoStudy gibi projelerde Agile metodolojisine ve Scrum prensiplerine uygun olarak çalıştım ve projelerime bu bağlamda katkı sağladım. GitHub hesabımda projelerimi düzenli olarak paylaşıyorum ve yeni teknolojilere açık biriyim.
 
