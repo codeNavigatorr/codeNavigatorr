@@ -37,22 +37,7 @@
 </p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://img.icons8.com/fluency/100/000000/trophy.png" alt="Trophy" width="100"/>
-  <h2>🎉 Tebrikler! Oyununuz Başarıyla Tamamlandı! 🎉</h2>
-  <p>Harika bir iş çıkardınız!</p>
-</p>
+![Yılan Oyunu](https://example.com/path-to-your-snake-game.gif)
 
 
 <!---
