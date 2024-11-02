@@ -37,6 +37,19 @@ Java, Selenium, Cucumber, TestNG ve GitHub gibi araçlara hakimim ve Amerika mer
 
 
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Quality%20Assurance-4B8BBE?style=for-the-badge&logo=qualityassurance&logoColor=white" alt="Quality Assurance" />
+  <img src="https://img.shields.io/badge/Selenium%20WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium WebDriver" />
+  <img src="https://img.shields.io/badge/BDD-FFB300?style=for-the-badge&logo=behave&logoColor=white" alt="Behavior Driven Development" />
+  <img src="https://img.shields.io/badge/Visual%20Testing-005B96?style=for-the-badge&logo=visualtesting&logoColor=white" alt="Visual Testing" />
+  <img src="https://img.shields.io/badge/SoapUI-3F9C4C?style=for-the-badge&logo=soapui&logoColor=white" alt="SoapUI" />
+  <img src="https://img.shields.io/badge/Performance%20Testing-F8C471?style=for-the-badge&logo=loadtest&logoColor=black" alt="Performance Testing" />
+  <img src="https://img.shields.io/badge/Test%20Automation-D4AC0D?style=for-the-badge&logo=robotframework&logoColor=white" alt="Test Automation" />
+  <img src="https://img.shields.io/badge/Version%20Control-4D96C5?style=for-the-badge&logo=git&logoColor=white" alt="Version Control" />
+</p>
+
+
+
 
 
 
