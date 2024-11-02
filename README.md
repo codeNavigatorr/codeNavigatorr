@@ -26,12 +26,9 @@ Java, Selenium, Cucumber, TestNG ve GitHub gibi araçlara hakimim ve Amerika mer
 <p align="left">
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit" />
   <img src="https://img.shields.io/badge/TestNG-E7E7E7?style=for-the-badge&logo=testng&logoColor=black" alt="TestNG" />
-  <img src="https://img.shields.io/badge/Mockito-9B7E89?style=for-the-badge&logo=mockito&logoColor=white" alt="Mockito" />
   <img src="https://img.shields.io/badge/QA%20Testing-FF477E?style=for-the-badge&logo=qa&logoColor=white" alt="QA Testing" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/Load%20Testing-FFC107?style=for-the-badge&logo=loadtest&logoColor=black" alt="Load Testing" />
   <img src="https://img.shields.io/badge/Agile-52C234?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" />
-  <img src="https://img.shields.io/badge/DevOps-00BFFF?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps" />
 </p>
 
 
@@ -41,11 +38,9 @@ Java, Selenium, Cucumber, TestNG ve GitHub gibi araçlara hakimim ve Amerika mer
   <img src="https://img.shields.io/badge/Quality%20Assurance-4B8BBE?style=for-the-badge&logo=qualityassurance&logoColor=white" alt="Quality Assurance" />
   <img src="https://img.shields.io/badge/Selenium%20WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium WebDriver" />
   <img src="https://img.shields.io/badge/BDD-FFB300?style=for-the-badge&logo=behave&logoColor=white" alt="Behavior Driven Development" />
-  <img src="https://img.shields.io/badge/Visual%20Testing-005B96?style=for-the-badge&logo=visualtesting&logoColor=white" alt="Visual Testing" />
-  <img src="https://img.shields.io/badge/SoapUI-3F9C4C?style=for-the-badge&logo=soapui&logoColor=white" alt="SoapUI" />
   <img src="https://img.shields.io/badge/Performance%20Testing-F8C471?style=for-the-badge&logo=loadtest&logoColor=black" alt="Performance Testing" />
   <img src="https://img.shields.io/badge/Test%20Automation-D4AC0D?style=for-the-badge&logo=robotframework&logoColor=white" alt="Test Automation" />
-  <img src="https://img.shields.io/badge/Version%20Control-4D96C5?style=for-the-badge&logo=git&logoColor=white" alt="Version Control" />
+  
 </p>
 
 
