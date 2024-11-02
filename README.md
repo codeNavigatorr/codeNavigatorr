@@ -22,6 +22,24 @@ Java, Selenium, Cucumber, TestNG ve GitHub gibi araçlara hakimim ve Amerika mer
 
 
 
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit" />
+  <img src="https://img.shields.io/badge/TestNG-E7E7E7?style=for-the-badge&logo=testng&logoColor=black" alt="TestNG" />
+  <img src="https://img.shields.io/badge/Mockito-9B7E89?style=for-the-badge&logo=mockito&logoColor=white" alt="Mockito" />
+  <img src="https://img.shields.io/badge/QA%20Testing-FF477E?style=for-the-badge&logo=qa&logoColor=white" alt="QA Testing" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Load%20Testing-FFC107?style=for-the-badge&logo=loadtest&logoColor=black" alt="Load Testing" />
+  <img src="https://img.shields.io/badge/Agile-52C234?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" />
+  <img src="https://img.shields.io/badge/DevOps-00BFFF?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps" />
+</p>
+
+
+
+
+
+
+
 <!---
 codeNavigatorr/codeNavigatorr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
