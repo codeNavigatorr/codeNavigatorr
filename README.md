@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://github.com/kullanici-adi/proje-adi/blob/main/gorsel-dosyasi.png" alt="Hello, I am Yusuf!" width="500"/>
-</p>
 
-👋 Merhaba! Ben Yusuf Ucucu, 
+
+👋 <h1 align="center">Merhaba, ben Yusuf!</h1>, 
 Yazılım Test Uzmanı olarak test otomasyonu ve kalite güvencesi alanında uzmanlaşan bir profesyonelim.
 Java, Selenium, Cucumber, TestNG ve GitHub gibi araçlara hakimim ve Mersys’te staj deneyimim var.
 
