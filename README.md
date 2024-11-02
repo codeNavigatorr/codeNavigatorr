@@ -1,4 +1,8 @@
-👋 Merhaba, ben Yusuf, 
+<p align="center">
+  <img src="https://img.icons8.com/fluency/100/000000/quality.png" alt="Quality" width="80"/>
+  <h1 align="center">🚀 Yusuf Ucucu</h1>
+  <h2 align="center">Yazılım Test Uzmanı</h2>
+  <p align="center">
 
 
 ### 🚀 Yetkinliklerim
@@ -14,10 +18,6 @@
   <img src="https://img.shields.io/badge/REST%20API-008CBA?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 </p>
-
-
-
-
 <p align="left">
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit" />
   <img src="https://img.shields.io/badge/TestNG-E7E7E7?style=for-the-badge&logo=testng&logoColor=black" alt="TestNG" />
@@ -25,9 +25,6 @@
   <img src="https://img.shields.io/badge/Load%20Testing-FFC107?style=for-the-badge&logo=loadtest&logoColor=black" alt="Load Testing" />
   <img src="https://img.shields.io/badge/Agile-52C234?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" />
 </p>
-
-
-
 
 <p align="left">
   <img src="https://img.shields.io/badge/Quality%20Assurance-4B8BBE?style=for-the-badge&logo=qualityassurance&logoColor=white" alt="Quality Assurance" />
@@ -39,31 +36,12 @@
 </p>
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/testing.png" alt="Testing" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/quality.png" alt="Quality" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/bug.png" alt="Bug" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/automation.png" alt="Automation" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/analytics.png" alt="Analytics" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/Automation%20Testing-4D4D4D?style=for-the-badge&logo=robot&logoColor=white" alt="Automation Testing" />
+  <img src="https://img.shields.io/badge/Quality%20Control-1C3F72?style=for-the-badge&logo=check-circle&logoColor=white" alt="Quality Control" />
+  <img src="https://img.shields.io/badge/Bug%20Report-FF4B4B?style=for-the-badge&logo=bug&logoColor=white" alt="Bug Report" />
+  <img src="https://img.shields.io/badge/Test%20Strategy-00A3E0?style=for-the-badge&logo=clipboard-list&logoColor=white" alt="Test Strategy" />
+  <img src="https://img.shields.io/badge/Performance%20Testing-F9A825?style=for-the-badge&logo=speedometer&logoColor=white" alt="Performance Testing" />
 </p>
-
-
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/test-automation.png" alt="Test Automation" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/debug.png" alt="Debug" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/code-review.png" alt="Code Review" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/success.png" alt="Success" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/pipeline.png" alt="Pipeline" width="50" height="50"/>
-</p>
-
-
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/user-experience.png" alt="User Experience" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/manual-testing.png" alt="Manual Testing" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/api.png" alt="API" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/report.png" alt="Report" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/devops.png" alt="DevOps" width="50" height="50"/>
-</p>
-
 
 
 
