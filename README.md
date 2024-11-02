@@ -37,8 +37,6 @@
 </p>
 
 
-![Yılan Oyunu](https://example.com/path-to-your-snake-game.gif)
-
 
 <!---
 codeNavigatorr/codeNavigatorr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
