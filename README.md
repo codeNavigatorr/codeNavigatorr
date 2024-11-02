@@ -5,24 +5,6 @@
 
 
 
-<p align="left">
-  <img src="https://img.shields.io/badge/QA%20Testing-FF477E?style=for-the-badge&logo=qa&logoColor=white" alt="QA Testing" />
-  <img src="https://img.shields.io/badge/Load%20Testing-FFC107?style=for-the-badge&logo=loadtest&logoColor=black" alt="Load Testing" />
-  <img src="https://img.shields.io/badge/Agile-52C234?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" />
-  <img src="https://img.shields.io/badge/Quality%20Assurance-4B8BBE?style=for-the-badge&logo=qualityassurance&logoColor=white" alt="Quality Assurance" />
-  <img src="https://img.shields.io/badge/Performance%20Testing-F8C471?style=for-the-badge&logo=loadtest&logoColor=black" alt="Performance Testing" />
-  <img src="https://img.shields.io/badge/Test%20Automation-D4AC0D?style=for-the-badge&logo=robotframework&logoColor=white" alt="Test Automation" />
-   <img src="https://img.shields.io/badge/Quality%20Control-1C3F72?style=for-the-badge&logo=check-circle&logoColor=white" alt="Quality Control" />
-  <img src="https://img.shields.io/badge/Bug%20Report-FF4B4B?style=for-the-badge&logo=bug&logoColor=white" alt="Bug Report" />
-  <img src="https://img.shields.io/badge/Test%20Strategy-00A3E0?style=for-the-badge&logo=clipboard-list&logoColor=white" alt="Test Strategy" />
-</p>
-
-
-
-
-
-
-
 ### 🚀 **Yetkinliklerim**
 
 **🧰 Test Otomasyonu ve Araçları**  
@@ -41,7 +23,23 @@
 
 **👥 Yönetim ve Takım Çalışması Araçları**  
 - 📋 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) Agile proje yönetimi  
-- 🔄 ![Agile](https://img.shields.io/badge/-Agile-2496ED?logo=scrumalliance&logoColor=white) & ![Scrum](https://img.shields.io/badge/-Scrum-5E2BFF?logo=scrum&logoColor=white) Proje süreç yönetimi  
+- 🔄 ![Agile](https://img.shields.io/badge/-Agile-2496ED?logo=scrumalliance&logoColor=white) & ![Scrum](https://img.shields.io/badge/-Scrum-5E2BFF?logo=scrum&logoColor=white) Proje süreç yönetimi
+
+
+
+
+
+<p align="left">
+  <img src="https://img.shields.io/badge/QA%20Testing-FF477E?style=for-the-badge&logo=qa&logoColor=white" alt="QA Testing" />
+  <img src="https://img.shields.io/badge/Load%20Testing-FFC107?style=for-the-badge&logo=loadtest&logoColor=black" alt="Load Testing" />
+  <img src="https://img.shields.io/badge/Agile-52C234?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" />
+  <img src="https://img.shields.io/badge/Quality%20Assurance-4B8BBE?style=for-the-badge&logo=qualityassurance&logoColor=white" alt="Quality Assurance" />
+  <img src="https://img.shields.io/badge/Performance%20Testing-F8C471?style=for-the-badge&logo=loadtest&logoColor=black" alt="Performance Testing" />
+  <img src="https://img.shields.io/badge/Test%20Automation-D4AC0D?style=for-the-badge&logo=robotframework&logoColor=white" alt="Test Automation" />
+   <img src="https://img.shields.io/badge/Quality%20Control-1C3F72?style=for-the-badge&logo=check-circle&logoColor=white" alt="Quality Control" />
+  <img src="https://img.shields.io/badge/Bug%20Report-FF4B4B?style=for-the-badge&logo=bug&logoColor=white" alt="Bug Report" />
+  <img src="https://img.shields.io/badge/Test%20Strategy-00A3E0?style=for-the-badge&logo=clipboard-list&logoColor=white" alt="Test Strategy" />
+</p>
 
 
 
