@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/banner-image-url.jpg" alt="Hoş Geldiniz! Ben Yusuf Ucucu" width="600"/>
+  <img src="https://github.com/kullanici-adi/proje-adi/blob/main/gorsel-dosyasi.png" alt="Hello, I am Yusuf!" width="500"/>
 </p>
 
 👋 Merhaba! Ben Yusuf Ucucu, 
