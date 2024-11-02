@@ -1,5 +1,15 @@
-<div align="center">
-  <img src="https://github.com/kullanici-adi/proje-adi/blob/main/gorsel-dosyasi.png" alt="Hello, I am Yusuf!" width="500"/>
+### JUnit
+![JUnit Logo](https://junit.org/junit5/assets/images/junit5-logo.png)
+
+### Test Senaryosu
+![Test Senaryosu İkonu](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Checkmark.svg/1200px-Checkmark.svg.png)
+
+### Başarı Durumu
+![Başarı İkonu](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Green_tick.svg/1200px-Green_tick.svg.png)
+
+### Hata Durumu
+![Hata İkonu](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Red_cross.svg/1024px-Red_cross.svg.png)
+
   
 
 👋 Merhaba, ben Yusuf, 
