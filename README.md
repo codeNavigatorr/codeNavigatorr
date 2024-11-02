@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://img.icons8.com/fluency/100/000000/quality.png" alt="Quality" width="80"/>
   <h1 align="center">🚀 Yusuf Ucucu</h1>
   <h2 align="center">Yazılım Test Uzmanı</h2>
   <p align="center">
@@ -32,15 +31,9 @@
   <img src="https://img.shields.io/badge/BDD-FFB300?style=for-the-badge&logo=behave&logoColor=white" alt="Behavior Driven Development" />
   <img src="https://img.shields.io/badge/Performance%20Testing-F8C471?style=for-the-badge&logo=loadtest&logoColor=black" alt="Performance Testing" />
   <img src="https://img.shields.io/badge/Test%20Automation-D4AC0D?style=for-the-badge&logo=robotframework&logoColor=white" alt="Test Automation" />
-  
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Automation%20Testing-4D4D4D?style=for-the-badge&logo=robot&logoColor=white" alt="Automation Testing" />
-  <img src="https://img.shields.io/badge/Quality%20Control-1C3F72?style=for-the-badge&logo=check-circle&logoColor=white" alt="Quality Control" />
+   <img src="https://img.shields.io/badge/Quality%20Control-1C3F72?style=for-the-badge&logo=check-circle&logoColor=white" alt="Quality Control" />
   <img src="https://img.shields.io/badge/Bug%20Report-FF4B4B?style=for-the-badge&logo=bug&logoColor=white" alt="Bug Report" />
   <img src="https://img.shields.io/badge/Test%20Strategy-00A3E0?style=for-the-badge&logo=clipboard-list&logoColor=white" alt="Test Strategy" />
-  <img src="https://img.shields.io/badge/Performance%20Testing-F9A825?style=for-the-badge&logo=speedometer&logoColor=white" alt="Performance Testing" />
 </p>
 
 
