@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🚀 Yusuf Ucucu</h1>
+  <h1 align="center">🚀 Yusuf Ucucu 🚀</h1>
   <h2 align="center">Yazılım Test Uzmanı</h2>
   <p align="center">
 
